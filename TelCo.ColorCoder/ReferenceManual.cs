@@ -20,5 +20,4 @@ namespace TelCo.ColorCoder
             }
         }
     }
-
 }
