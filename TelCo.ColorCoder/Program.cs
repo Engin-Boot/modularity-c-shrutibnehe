@@ -6,7 +6,6 @@ namespace TelCo.ColorCoder
 {
     class Program
     {
-       
         private static void Main(string[] args)
         {
             int pairNumber = 4;
