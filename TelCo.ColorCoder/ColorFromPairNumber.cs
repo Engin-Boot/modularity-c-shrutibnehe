@@ -2,9 +2,6 @@
 using System.Collections.Generic;
 using System.Text;
 using static TelCo.ColorCoder.ListOfColors;
-
-
-
 namespace TelCo.ColorCoder
 {
     class ColorFromPairNumber
